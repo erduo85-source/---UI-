@@ -1,0 +1,253 @@
+{
+  "capturedAt": "2026-05-26 15:18:41 +08:00",
+  "scope": {
+    "phaseNote": "本期首页模块按抽样验收；不纳入安全防护与三方绑定",
+    "routes": [
+      "https://account-test.yokaverse.com/",
+      "https://account-test.yokaverse.com/security"
+    ]
+  },
+  "navLinkOnHome": {
+    "text": "账号服务",
+    "tag": "A",
+    "href": "/security"
+  },
+  "homeRoute": {
+    "route": "https://account-test.yokaverse.com/",
+    "title": "游卡--安全中心",
+    "headerBrand": {
+      "wrapperRect": {
+        "x": 72,
+        "y": 0,
+        "w": 152,
+        "h": 69
+      },
+      "imgRect": {
+        "x": 72,
+        "y": 16,
+        "w": 152,
+        "h": 38
+      },
+      "alt": "游卡"
+    },
+    "topNav": {
+      "containerRect": {
+        "x": 1490,
+        "y": 0,
+        "w": 246,
+        "h": 69
+      },
+      "gap": "70px",
+      "account": {
+        "rect": {
+          "x": 1490,
+          "y": 0,
+          "w": 88,
+          "h": 69
+        },
+        "color": "rgb(55, 116, 246)",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "16px",
+        "padding": "0px 12px"
+      },
+      "service": {
+        "rect": {
+          "x": 1648,
+          "y": 0,
+          "w": 88,
+          "h": 69
+        },
+        "color": "rgb(64, 169, 255)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "padding": "0px 12px"
+      }
+    },
+    "sampledModules": {
+      "realnameBadge": {
+        "rect": {
+          "x": 766,
+          "y": 221,
+          "w": 66,
+          "h": 31
+        },
+        "color": "rgb(55, 116, 246)",
+        "backgroundColor": "rgb(240, 247, 255)",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "padding": "5px 12px",
+        "borderRadius": "999px"
+      },
+      "passwordLabel": {
+        "rect": {
+          "x": 740,
+          "y": 502,
+          "w": 556,
+          "h": 20
+        },
+        "color": "rgba(0, 0, 0, 0.85)",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "20px"
+      },
+      "passwordDesc": {
+        "rect": {
+          "x": 740,
+          "y": 524,
+          "w": 556,
+          "h": 20
+        },
+        "color": "rgb(72, 70, 77)",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.3px"
+      },
+      "passwordAction": {
+        "rect": {
+          "x": 1316,
+          "y": 503,
+          "w": 52,
+          "h": 40
+        },
+        "color": "rgb(55, 116, 246)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px"
+      },
+      "safePhoneLabel": {
+        "rect": {
+          "x": 740,
+          "y": 577,
+          "w": 556,
+          "h": 20
+        },
+        "color": "rgba(0, 0, 0, 0.85)",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "20px"
+      },
+      "safePhoneAction": {
+        "rect": {
+          "x": 1316,
+          "y": 578,
+          "w": 52,
+          "h": 40
+        },
+        "color": "rgb(55, 116, 246)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px"
+      },
+      "safeEmailLabel": {
+        "rect": {
+          "x": 740,
+          "y": 653,
+          "w": 556,
+          "h": 20
+        },
+        "color": "rgba(0, 0, 0, 0.85)",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "20px"
+      },
+      "safeEmailAction": {
+        "rect": {
+          "x": 1316,
+          "y": 654,
+          "w": 52,
+          "h": 40
+        },
+        "color": "rgb(55, 116, 246)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px"
+      }
+    }
+  },
+  "securityRoute": {
+    "route": "https://account-test.yokaverse.com/security",
+    "title": "游卡--安全中心",
+    "headerBrand": {
+      "wrapperRect": {
+        "x": 72,
+        "y": 16,
+        "w": 110,
+        "h": 38
+      },
+      "imgRect": {
+        "x": 72,
+        "y": 16,
+        "w": 152,
+        "h": 38
+      },
+      "alt": ""
+    },
+    "topNav": {
+      "containerRect": {
+        "x": 1635,
+        "y": 0,
+        "w": 198,
+        "h": 70
+      },
+      "account": {
+        "rect": {
+          "x": 1635,
+          "y": 0,
+          "w": 64,
+          "h": 70
+        },
+        "color": "rgb(102, 102, 102)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "40px"
+      },
+      "service": {
+        "rect": {
+          "x": 1769,
+          "y": 0,
+          "w": 64,
+          "h": 70
+        },
+        "color": "rgb(55, 116, 246)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "40px"
+      }
+    },
+    "bodyExcerpt": [
+      "账号管理",
+      "账号服务",
+      "账号自助管理",
+      "账号申诉",
+      "通行证找回",
+      "密码重置"
+    ]
+  },
+  "figmaExpectations": {
+    "accountServiceEntryNode": "43644:1047",
+    "topNav": {
+      "logoRect": {
+        "x": 71,
+        "y": 16,
+        "w": 208,
+        "h": 38
+      },
+      "navGroup": {
+        "top": 27,
+        "right": 353,
+        "gap": 70
+      },
+      "inactiveColor": "#666666",
+      "activeColor": "#3774f6",
+      "textSize": "16px"
+    },
+    "securityInfoLabelNodes": {
+      "loginPassword": "44163:1989",
+      "safePhone": "44163:1988",
+      "safeEmail": "44163:1994"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+- generic: 账号自助管理
+- generic: 账号绑定的手机号/邮箱无法接收验证码？发起账号申诉换绑验证信息
+- img "404"
+- text: 页面信息加载失败，请返回
+- link "安全中心首页":
+  - /url: /security
+- text: （9s）
+- alert

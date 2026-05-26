@@ -1,0 +1,74 @@
+- alert
+- banner:
+  - generic "游卡账号中心":
+    - img "游卡"
+  - navigation "主导航":
+    - link "账号管理":
+      - /url: /
+    - link "账号服务":
+      - /url: /recovery
+  - button
+- complementary "账号中心侧边栏":
+  - button "账号信息":
+    - generic: 账号信息
+  - button "安全信息":
+    - generic: 安全信息
+- main:
+  - region "sg****38":
+    - button "已实名"
+    - heading "sg****38" [level=1]
+    - generic: ID：
+    - generic: "40000288831619"
+    - button "复制"
+    - generic: 登录手机
+    - generic: 绑定登录手机后，您可使用手机登录进入游戏
+    - button "绑定"
+    - generic: 通行证账号
+    - generic: sg****38
+  - region "安全信息":
+    - heading "安全信息" [level=2]
+    - button "密保问题在哪里？"
+    - list:
+      - generic: 登录密码
+      - generic: 上次修改时间 194 天前，请及时更新密码
+      - button "修改"
+      - generic: 安全手机
+      - generic: 绑定安全手机 可用于忘记密码或账号被盗时快速重置密码
+      - button "绑定"
+      - generic: 安全邮箱
+      - generic: 绑定安全邮箱 可用于忘记密码或账号被盗时快速重置密码
+      - button "绑定"
+- button "常见问题" [active]
+- button "关闭"
+- dialog "常见问题":
+  - heading "常见问题" [level=2]
+  - button "关闭"
+  - button "什么是游卡通行证？" [expanded]:
+    - generic: 什么是游卡通行证？
+  - paragraph: 游卡通行证是登录游卡旗下所有平台的统一账号。
+  - button "未进行实名认证会有什么影响？":
+    - generic: 未进行实名认证会有什么影响？
+  - button "一张身份证可以认证多个账号吗？":
+    - generic: 一张身份证可以认证多个账号吗？
+  - button "一个安全手机或安全邮箱可以绑定多个账号吗？":
+    - generic: 一个安全手机或安全邮箱可以绑定多个账号吗？
+  - button "验证手机收不到验证码怎么办？":
+    - generic: 验证手机收不到验证码怎么办？
+  - button "绑定安全邮箱时收不到验证邮件怎么办？":
+    - generic: 绑定安全邮箱时收不到验证邮件怎么办？
+  - button "什么是验证期？":
+    - generic: 什么是验证期？
+  - button "如何注销通行证？":
+    - generic: 如何注销通行证？
+  - button "确认"
+- contentinfo:
+  - img "游卡"
+  - link "用户协议":
+    - /url: https://www.yokaverse.com/service-agreements_1/
+  - link "隐私协议":
+    - /url: https://www.yokaverse.com/privacy-statement_1/
+  - link "ICP备案：浙B2-20160108-22":
+    - /url: https://beian.miit.gov.cn/
+  - link "浙公网安备33010502006938号":
+    - /url: https://beian.mps.gov.cn/#/query/webSearch?code=33010502006938
+  - generic: © 2025 杭州游卡网络技术有限公司

@@ -1,0 +1,125 @@
+{
+  "capturedAt": "2026-05-26 14:48:12 +08:00",
+  "route": "https://account-test.yokaverse.com/?extra=%7B%22login_type%22%3A%22password%22%7D",
+  "pageTitle": "游卡--安全中心",
+  "bodyTextExcerpt": [
+    "账号管理",
+    "账号服务",
+    "账号信息",
+    "安全信息",
+    "已实名",
+    "登录手机",
+    "152****9728",
+    "换绑",
+    "登录密码",
+    "上次修改时间 195 天前，请及时更新密码",
+    "修改",
+    "安全手机",
+    "安全邮箱",
+    "绑定"
+  ],
+  "accountTab": {
+    "text": "账号信息",
+    "color": "rgb(55, 116, 246)",
+    "fontSize": "18px",
+    "fontWeight": "600",
+    "lineHeight": "27px",
+    "rect": {
+      "x": 444,
+      "y": 117,
+      "w": 72,
+      "h": 27
+    },
+    "parent": {
+      "backgroundColor": "rgb(235, 242, 255)",
+      "borderRadius": "6px",
+      "padding": "14px 12px",
+      "rect": {
+        "x": 398,
+        "y": 103,
+        "w": 258,
+        "h": 55
+      }
+    }
+  },
+  "securityTab": {
+    "text": "安全信息",
+    "color": "rgb(107, 112, 123)",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "rect": {
+      "x": 444,
+      "y": 176,
+      "w": 64,
+      "h": 24
+    },
+    "parent": {
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "6px",
+      "padding": "14px 12px",
+      "rect": {
+        "x": 398,
+        "y": 162,
+        "w": 258,
+        "h": 52
+      }
+    }
+  },
+  "loginPhoneRow": {
+    "row": {
+      "text": "登录手机 152****9728 换绑",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(237, 244, 250)",
+      "borderRadius": "8px",
+      "padding": "12px 16px",
+      "gap": "12px 14px",
+      "gridTemplateColumns": "32px 72px 351px 56px",
+      "rect": {
+        "x": 873,
+        "y": 217,
+        "w": 587,
+        "h": 62
+      }
+    },
+    "label": {
+      "text": "登录手机",
+      "color": "rgba(92, 100, 112, 0.8)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "rect": {
+        "x": 936,
+        "y": 236,
+        "w": 72,
+        "h": 24
+      }
+    },
+    "value": {
+      "text": "152****9728",
+      "color": "rgb(29, 32, 36)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "rect": {
+        "x": 1022,
+        "y": 236,
+        "w": 351,
+        "h": 24
+      }
+    },
+    "action": {
+      "text": "换绑",
+      "color": "rgb(55, 116, 246)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "rect": {
+        "x": 1387,
+        "y": 230,
+        "w": 56,
+        "h": 36
+      }
+    }
+  }
+}

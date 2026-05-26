@@ -1,0 +1,24 @@
+- link "游卡":
+  - /url: /security
+  - img "游卡"
+- generic: 账号自助管理
+- generic: 游卡账号安全中心，提供账号信息的自助管理服务，轻松解决账号问题。
+- link "账号申诉 账号申诉 提交资料重置安全验证信息 查看详情 arrow-right":
+  - /url: /security/appeal
+  - img "账号申诉"
+  - generic: 账号申诉
+  - generic: 提交资料重置安全验证信息
+  - generic: 查看详情
+  - img "arrow-right":
+- link "咨询客服":
+  - /url: https://kf1.yokagames.com/front/index/index
+  - generic: 咨询客服
+- img "游卡"
+- link "ICP备案：浙B2-20160108-22":
+  - /url: https://beian.miit.gov.cn/
+- link "游卡 浙公网安备33010502006938号":
+  - /url: https://beian.mps.gov.cn/#/query/webSearch?code=33010502006938
+  - img "游卡"
+  - generic: 浙公网安备33010502006938号
+- generic: © 2025 杭州游卡网络技术有限公司
+- alert

@@ -1,0 +1,46 @@
+- alert
+- banner:
+  - link "游卡账号中心":
+    - /url: /
+    - img "游卡"
+  - navigation "主导航":
+    - link "账号管理":
+      - /url: /
+    - link "账号服务":
+      - /url: /recovery
+  - link "返回账号中心":
+    - /url: /
+- heading "账号找回" [level=1]
+- paragraph: 忘记通行证登录方式？验证资料即可快速找回
+- main:
+  - heading "通行证找回" [level=2]
+  - paragraph: 找回方式
+  - radiogroup "找回方式":
+    - radio "安全手机" [checked]
+    - text: 安全手机
+    - radio "安全邮箱"
+    - text: 安全邮箱
+    - radio "充值订单"
+    - text: 充值订单
+  - paragraph: 手机号码
+  - generic: CN+86
+  - textbox "手机号码（不含国际区号）":
+    - /placeholder: 请输入手机号码
+  - region "验证码":
+    - paragraph: 验证码
+    - textbox "请输入验证码"
+    - button "获取验证码" [disabled]
+  - button "找回" [disabled]
+  - link "返回首页":
+    - /url: /
+- contentinfo:
+  - img "游卡"
+  - link "用户协议":
+    - /url: https://www.yokaverse.com/service-agreements_1/
+  - link "隐私协议":
+    - /url: https://www.yokaverse.com/privacy-statement_1/
+  - link "ICP备案：浙B2-20160108-22":
+    - /url: https://beian.miit.gov.cn/
+  - link "浙公网安备33010502006938号":
+    - /url: https://beian.mps.gov.cn/#/query/webSearch?code=33010502006938
+  - generic: © 2025 杭州游卡网络技术有限公司

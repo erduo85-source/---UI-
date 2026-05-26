@@ -1,0 +1,60 @@
+- alert
+- banner:
+  - generic "游卡账号中心":
+    - img "游卡"
+  - navigation "主导航":
+    - link "账号管理":
+      - /url: /
+    - link "账号服务":
+      - /url: /recovery
+  - button
+- complementary "账号中心侧边栏":
+  - button "账号信息":
+    - generic: 账号信息
+  - button "安全信息":
+    - generic: 安全信息
+- main:
+  - region "sg****38":
+    - button "已实名"
+    - heading "sg****38" [level=1]
+    - generic: ID：
+    - generic: "40000288831619"
+    - button "复制"
+    - generic: 登录手机
+    - generic: 绑定登录手机后，您可使用手机登录进入游戏
+    - button "绑定" [active]
+    - generic: 通行证账号
+    - generic: sg****38
+  - region "安全信息":
+    - heading "安全信息" [level=2]
+    - button "密保问题在哪里？"
+    - list:
+      - generic: 登录密码
+      - generic: 上次修改时间 194 天前，请及时更新密码
+      - button "修改"
+      - generic: 安全手机
+      - generic: 绑定安全手机 可用于忘记密码或账号被盗时快速重置密码
+      - button "绑定"
+      - generic: 安全邮箱
+      - generic: 绑定安全邮箱 可用于忘记密码或账号被盗时快速重置密码
+      - button "绑定"
+- contentinfo:
+  - img "游卡"
+  - link "用户协议":
+    - /url: https://www.yokaverse.com/service-agreements_1/
+  - link "隐私协议":
+    - /url: https://www.yokaverse.com/privacy-statement_1/
+  - link "ICP备案：浙B2-20160108-22":
+    - /url: https://beian.miit.gov.cn/
+  - link "浙公网安备33010502006938号":
+    - /url: https://beian.mps.gov.cn/#/query/webSearch?code=33010502006938
+  - generic: © 2025 杭州游卡网络技术有限公司
+- dialog:
+  - dialog "温馨提示":
+    - button "关闭": ×
+    - heading "温馨提示" [level=2]
+    - paragraph: 账号已换绑安全手机，建议您绑定登录手机，完成后即可：
+    - list:
+      - listitem: 通过登录手机号 使用本机号码一键登录
+      - listitem: 通过输入登录手机号 使用手机验证码登录
+    - button "立即绑定"
